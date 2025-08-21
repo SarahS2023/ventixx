@@ -16,8 +16,13 @@ body{
 
 h1{
     font-size: 30px;
+    justify-content: right;
 }
 p{
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
+    justify-content: right;
+}
+.video{
+    justify-content: right;
 }
