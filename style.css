@@ -3,7 +3,7 @@ header{
     font-size: 50px;
     font-style: italic;
     border-bottom: double 5px firebrick;
-    
+    padding: 20px;
 }
 
 body{
