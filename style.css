@@ -10,12 +10,10 @@ body{
     
     background-color: black;
     color: firebrick;  
-    .chela-one-regular {
-  font-family: "Chela One", system-ui;
-  font-weight: 40px;
-  font-style: normal;
+    font-family: "Chela One", system-ui;
+    font-style: normal;
 }
-}
+
 h1{
     font-size: 30px;
 }
