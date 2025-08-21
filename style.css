@@ -1,7 +1,10 @@
 header{
+    font-family: "Chela One", system-ui;
     font-size: 50px;
+    font-style: italic;
+    border-bottom: double 5px firebrick;
+    
 }
-
 
 body{
     
@@ -12,11 +15,10 @@ body{
   font-weight: 40px;
   font-style: normal;
 }
-
 }
 h1{
     font-size: 30px;
 }
 p{
-    font-size: 15px;
+    font-size: 10px;
 }
