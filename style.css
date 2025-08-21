@@ -1,7 +1,7 @@
 header{
-    font-family: "Chela One", system-ui;
+    font-family: "Press Start 2P", system-ui;
     font-size: 50px;
-    font-style: italic;
+    font-style: normal;
     border-bottom: double 5px firebrick;
     padding: 20px;
 }
@@ -10,7 +10,7 @@ body{
     
     background-color: black;
     color: firebrick;  
-    font-family: "Chela One", system-ui;
+    font-family: "Press Start 2P", system-ui;
     font-style: normal;
 }
 
@@ -18,5 +18,6 @@ h1{
     font-size: 30px;
 }
 p{
+    font-family: 'Courier New', Courier, monospace;
     font-size: 10px;
 }
